@@ -1,40 +1,41 @@
-import java.util.*;
 
 class Solution {
     public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {
         int n = profits.length;
-        int[][] projects = new int[n][2];
-
-        // Pair up capital and profit, and sort by capital
+        
+        // List to store projects based on their capital requirements
+        List<int[]> projects = new ArrayList<>();
         for (int i = 0; i < n; i++) {
-            projects[i][0] = capital[i];
-            projects[i][1] = profits[i];
+            projects.add(new int[]{capital[i], profits[i]});
         }
-
-        // Sort projects based on the capital required
-        Arrays.sort(projects, Comparator.comparingInt(a -> a[0]));
-
-        // Max-heap to store the available profits
+        
+        // Sort projects by their capital requirements (ascending order)
+        Collections.sort(projects, (a, b) -> a[0] - b[0]);
+        
+        // Max heap to store profits of available projects (descending order)
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-        int index = 0;
-
-        // Iterate k times to select k projects
-        for (int i = 0; i < k; i++) {
-            // Add all the projects we can afford with current capital w
-            while (index < n && projects[index][0] <= w) {
-                maxHeap.add(projects[index][1]);
-                index++;
+        
+        int idx = 0;
+        
+        while (k > 0) {
+            // Add all projects that we can currently start with the available capital 'w'
+            while (idx < n && projects.get(idx)[0] <= w) {
+                maxHeap.offer(projects.get(idx)[1]);
+                idx++;
             }
-
-            // If there are no available projects we can afford, break the loop
+            
+            // If no projects can be undertaken (maxHeap is empty), break
             if (maxHeap.isEmpty()) {
                 break;
             }
-
-            // Select the most profitable project
+            
+            // Select the project with maximum profit that we can afford
             w += maxHeap.poll();
+            
+            // Decrement the count of projects we can still select
+            k--;
         }
-
+        
         return w;
     }
 }
