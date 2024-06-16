@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 # Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 # Math
 |  |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 # Heap (Priority Queue)
 |  |
@@ -58,3 +61,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
+# Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
