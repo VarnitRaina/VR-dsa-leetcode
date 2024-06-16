@@ -11,8 +11,6 @@
 class Solution {
     public ListNode oddEvenList(ListNode head) {
         if(head==null)return null;
-        ListNode dummy=new ListNode(0);
-        dummy.next=head;
         ListNode odd=head;
         ListNode even=head.next;
         ListNode evenHead=even;
@@ -23,6 +21,6 @@ class Solution {
             even=even.next;
         }
         odd.next=evenHead;
-        return dummy.next;
+        return head;
     }
 }
