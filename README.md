@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0012-integer-to-roman) |
 | [0382-linked-list-random-node](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0382-linked-list-random-node) |
 # Recursion
 |  |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 # Divide and Conquer
 |  |
@@ -100,3 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0382-linked-list-random-node) |
+# String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0012-integer-to-roman) |
