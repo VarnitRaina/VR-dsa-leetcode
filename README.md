@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Two Pointers
 |  |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
+| [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Tree
 |  |
 | ------- |
@@ -113,3 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0013-roman-to-integer) |
+# Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
