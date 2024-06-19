@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0725-split-linked-list-in-parts](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0382-linked-list-random-node](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0382-linked-list-random-node) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Recursion
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Tree
 |  |
 | ------- |
