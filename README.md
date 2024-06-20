@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Greedy
@@ -138,3 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0035-search-insert-position) |
