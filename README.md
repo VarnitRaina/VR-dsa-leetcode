@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0086-partition-list) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Greedy
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Design
 |  |
@@ -149,3 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0036-valid-sudoku) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
