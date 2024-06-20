@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0036-valid-sudoku) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Greedy
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 # Divide and Conquer
@@ -143,3 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0035-search-insert-position) |
+# Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0036-valid-sudoku) |
