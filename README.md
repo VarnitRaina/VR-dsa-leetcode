@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Greedy
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 # Heap (Priority Queue)
 |  |
@@ -125,10 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 # Merge Sort
 |  |
 | ------- |
@@ -184,3 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0078-subsets) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
