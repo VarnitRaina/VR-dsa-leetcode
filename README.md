@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0078-subsets) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 # Greedy
@@ -166,3 +167,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0045-jump-game-ii) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0078-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0078-subsets) |
