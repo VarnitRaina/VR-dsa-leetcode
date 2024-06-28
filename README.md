@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0382-linked-list-random-node) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0143-reorder-list) |
 # Array
 |  |
 | ------- |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0143-reorder-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Tree
