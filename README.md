@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -221,4 +222,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
