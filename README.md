@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -235,4 +236,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
