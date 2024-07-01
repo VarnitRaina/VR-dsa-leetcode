@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
+| [1293-three-consecutive-odds](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1293-three-consecutive-odds) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
