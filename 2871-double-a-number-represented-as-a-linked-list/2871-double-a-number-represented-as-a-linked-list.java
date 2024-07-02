@@ -1,6 +1,5 @@
 class Solution {
     public ListNode doubleIt(ListNode head) {
-        if (head == null) return null;
         head = reverse(head);
         ListNode temp = head;
         int carry = 0;
@@ -14,8 +13,7 @@ class Solution {
                 carry = 0;
                 break;
             }
-            temp = temp.next;
-            
+            temp = temp.next; 
         }
         return reverse(head);
     }
