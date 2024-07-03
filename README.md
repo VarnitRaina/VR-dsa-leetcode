@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
