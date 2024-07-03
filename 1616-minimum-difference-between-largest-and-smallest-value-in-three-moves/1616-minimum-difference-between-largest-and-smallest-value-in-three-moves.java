@@ -6,7 +6,7 @@ class Solution {
         }
         int res=Integer.MAX_VALUE;
         for(int i=0;i<4;i++){
-            res=Math.min(res,nums[nums.length-1-3+i]-nums[i]);
+            res=Math.min(res,nums[nums.length-4+i]-nums[i]);
         }
         return res;
     }
