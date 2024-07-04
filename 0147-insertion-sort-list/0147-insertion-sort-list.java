@@ -10,7 +10,6 @@
  */
 class Solution {
     public ListNode insertionSortList(ListNode head) {
-        if(head==null || head.next==null)return head;
         ListNode temp=head;
         while(temp!=null){
             ListNode next=temp.next;
