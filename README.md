@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
