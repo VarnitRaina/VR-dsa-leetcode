@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
+| [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1642-water-bottles](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2645-pass-the-pillow) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
