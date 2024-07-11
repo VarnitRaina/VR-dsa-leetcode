@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
+| [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1293-three-consecutive-odds](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Two Pointers
@@ -371,4 +374,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
