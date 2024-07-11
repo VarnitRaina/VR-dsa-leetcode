@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1720-crawler-log-folder) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1720-crawler-log-folder) |
 ## Divide and Conquer
 |  |
