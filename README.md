@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
 | [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sliding Window
 |  |
