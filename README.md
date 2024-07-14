@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
 | [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1720-crawler-log-folder) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
