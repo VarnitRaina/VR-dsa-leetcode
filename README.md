@@ -421,4 +421,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
