@@ -425,10 +425,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -437,4 +439,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
