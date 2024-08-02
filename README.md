@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2727-number-of-senior-citizens](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Counting Sort
 |  |
 | ------- |
