@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1293-three-consecutive-odds](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sliding Window
 |  |
