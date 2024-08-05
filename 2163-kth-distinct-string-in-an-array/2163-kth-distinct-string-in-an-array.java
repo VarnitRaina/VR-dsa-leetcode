@@ -1,21 +1,11 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        HashSet<String> distinct=new HashSet<>();
-        HashSet<String> duplicate=new HashSet<>();
+        HashMap<String,Integer> freqMap=new HashMap<>();
         for(String str:arr){
-            if(duplicate.contains(str)){
-                continue;
-            }
-            if(distinct.contains(str)){
-                distinct.remove(str);
-                duplicate.add(str);
-            }
-            else{
-                distinct.add(str);
-            }
+            freqMap.put(str,freqMap.getOrDefault(str,0)+1);
         }
         for(String str:arr){
-            if(!duplicate.contains(str)){
+            if(freqMap.get(str)==1){
                 k--;
             }
             if(k==0){
