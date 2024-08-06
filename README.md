@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0933-increasing-order-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1720-crawler-log-folder) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0933-increasing-order-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -467,12 +470,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2384-root-equals-sum-of-children) |
