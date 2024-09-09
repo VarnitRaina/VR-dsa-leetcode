@@ -13,8 +13,9 @@ class Solution {
        if(original!=null){
         if(original==target)return cloned;
         TreeNode t=getTargetCopy(original.left,cloned.left,target);
-        if(t!=null)return t;
-        return getTargetCopy(original.right,cloned.right,target);
+        if(t==null)
+            return getTargetCopy(original.right,cloned.right,target);
+        return t;
        }
        return null;
     }
