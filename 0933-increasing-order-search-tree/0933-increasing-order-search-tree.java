@@ -15,7 +15,7 @@
  */
 class Solution {
     public TreeNode increasingBST(TreeNode root) {
-        List<Integer> l1=new ArrayList<>();
+        ArrayList<Integer> l1=new ArrayList<>();
         inorder(root,l1);
         TreeNode dummy=new TreeNode(0);
         TreeNode curr=dummy;
