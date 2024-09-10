@@ -26,6 +26,6 @@ class Solution {
                 return false;
             }
         }
-        return isUnivalTree(root.left) && isUnivalTree(root.right);
+        return isUnivalTree(root.left)&&isUnivalTree(root.right);
     }
 }
