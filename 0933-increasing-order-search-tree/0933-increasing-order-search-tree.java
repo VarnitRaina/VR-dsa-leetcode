@@ -20,7 +20,8 @@ class Solution {
         TreeNode dummy=new TreeNode(0);
         TreeNode curr=dummy;
         for(int i:l1){
-            curr=curr.right=new TreeNode(i);
+            curr.right=new TreeNode(i);
+            curr=curr.right;
         }
         return dummy.right;
     }
