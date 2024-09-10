@@ -20,6 +20,6 @@ class Solution {
     public int sumRoot(TreeNode root,int val){
         if(root==null)return 0;
         val=2*val+root.val;
-        return (root.left==root.right)?val:sumRoot(root.left,val)+sumRoot(root.right,val);
+        return root.left==root.right?val:sumRoot(root.left,val)+sumRoot(root.right,val);
     }
 }
