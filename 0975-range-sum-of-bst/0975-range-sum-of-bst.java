@@ -20,11 +20,11 @@ class Solution {
         if(root.val>low){
             sum+=rangeSumBST(root.left,low,high);
         }
-        if(root.val>=low && root.val<=high){
-            sum+=root.val;
-        }
         if(root.val<high){
             sum+=rangeSumBST(root.right,low,high);
+        }
+        if(root.val<=high && root.val>=low){
+            sum+=root.val;
         }
         return sum;
     }
