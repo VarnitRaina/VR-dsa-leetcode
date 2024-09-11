@@ -19,7 +19,7 @@ class Solution {
         calculateDiameter(root);
         return max;
     }
-    private int calculateDiameter(TreeNode root){
+    public int calculateDiameter(TreeNode root){
         if(root==null)return 0;
         int left=calculateDiameter(root.left);
         int right=calculateDiameter(root.right);
