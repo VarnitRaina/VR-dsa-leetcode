@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0273-integer-to-english-words) |
 | [0382-linked-list-random-node](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0382-linked-list-random-node) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0110-balanced-binary-tree) |
@@ -498,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -506,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0110-balanced-binary-tree) |
