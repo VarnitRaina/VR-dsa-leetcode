@@ -22,6 +22,7 @@ class Solution {
         return splitTree(preorder,map,0,0,inorder.length-1);
     }
     public TreeNode splitTree(int[] preorder,Map<Integer,Integer> map,int rootIndex,int left,int right){
+        if(left>right)return null;
         TreeNode root=new TreeNode(preorder[rootIndex]);
         int mid=map.get(preorder[rootIndex]);
         if(mid>left){
