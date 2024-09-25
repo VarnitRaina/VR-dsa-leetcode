@@ -15,22 +15,25 @@
  */
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> paths=new ArrayList<>();
-        if(root==null)return paths;
-        construct(root,"",paths);
-        return paths;
-    }
-    public void construct(TreeNode root,String path,List<String> paths){
+        List<String> l1=new ArrayList<>();
         if(root!=null){
-            path+=Integer.toString(root.val);
+            binary(root,"",l1);
+        }
+        return l1;
+    }
+    public List<String> binary(TreeNode root,String path,List<String> list){
+        if(root!=null){
+            path+=root.val;
             if(root.left==null && root.right==null){
-                paths.add(path);
+                list.add(path);
             }
             else{
                 path+="->";
-                construct(root.left,path,paths);
-                construct(root.right,path,paths);
+                binary(root.left,path,list);
+                binary(root.right,path,list);
             }
         }
+        
+        return list;
     }
 }
