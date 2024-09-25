@@ -33,7 +33,6 @@ class Solution {
                 binary(root.right,path,list);
             }
         }
-        
         return list;
     }
 }
