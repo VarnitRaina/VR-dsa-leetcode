@@ -16,16 +16,17 @@
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> l1=new ArrayList<>();
-        path(root,targetSum,l1,new ArrayList());
+        helper(root,targetSum,l1,new ArrayList<>());
         return l1;
     }
-    public void path(TreeNode root,int sum,List<List<Integer>> l1,List<Integer> l2){
+    public void helper(TreeNode root,int targetSum,List<List<Integer>> l1,List<Integer> l2){
         if(root==null)return;
         l2.add(root.val);
-        if(root.left==null && root.right==null && sum==root.val){
-            l1.add(l2);
+        if(root.left==null && root.right==null && root.val==targetSum){
+            l1.add(new ArrayList<>(l2));
         }
-        path(root.left,sum-root.val,l1,new ArrayList(l2));
-        path(root.right,sum-root.val,l1,new ArrayList(l2));
+        helper(root.left,targetSum-root.val,l1,l2);
+        helper(root.right,targetSum-root.val,l1,l2);
+        l2.remove(l2.size()-1);
     }
 }
