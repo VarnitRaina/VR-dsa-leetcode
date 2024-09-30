@@ -16,17 +16,26 @@
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> l1=new ArrayList<>();
-        traversal(root,l1,0);
-        Collections.reverse(l1);
+        int height=height(root);
+        for(int i=height;i>=1;i--){
+            List<Integer> l2=new ArrayList<>();
+            traverse(root,l2,i);
+            l1.add(l2);
+        }
         return l1;
     }
-    public void traversal(TreeNode root,List<List<Integer>> list1,int count){
+    public void traverse(TreeNode root,List<Integer> list1,int count){
         if(root==null)return;
-        if(list1.size()==count){
-            list1.add(new ArrayList<>());
+        if(count==1){
+            list1.add(root.val);
         }
-        list1.get(count).add(root.val);
-        traversal(root.left,list1,count+1);
-        traversal(root.right,list1,count+1);
+        else if(count>1){
+            traverse(root.left,list1,count-1);
+            traverse(root.right,list1,count-1);
+        }
+    }
+    public int height(TreeNode root){
+        if(root==null)return 0;
+        return 1+Math.max(height(root.left),height(root.right));
     }
 }
