@@ -17,7 +17,7 @@ class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> l1=new ArrayList<>();
         int height=height(root);
-        for(int i=height;i>=1;i--){
+        for(int i=height;i>0;i--){
             List<Integer> l2=new ArrayList<>();
             traverse(root,l2,i);
             l1.add(l2);
