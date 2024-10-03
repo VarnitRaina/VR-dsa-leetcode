@@ -500,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -604,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1005-univalued-binary-tree) |
