@@ -20,8 +20,9 @@ class Solution {
     public int sum(TreeNode root){
         if(root==null)return 0;
         int sum=0;
-        if(root.left!=null && root.left.right==null && root.left.left==null)
+        if(root.left!=null && root.left.left==null && root.left.right==null){
             sum+=root.left.val;
+        }
         sum+=sum(root.left);
         sum+=sum(root.right);
         return sum;
