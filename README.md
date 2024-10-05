@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1275-validate-binary-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1275-validate-binary-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1275-validate-binary-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -615,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1005-univalued-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Matrix
 |  |
@@ -626,4 +630,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0113-path-sum-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0257-binary-tree-paths) |
+## Union Find
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1275-validate-binary-tree-nodes) |
+## Graph
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1275-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
