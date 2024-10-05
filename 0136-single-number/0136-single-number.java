@@ -7,7 +7,9 @@ class Solution {
                     count++;
                 }
             }
-           if(count==1)return nums[i];
+            if(count==1){
+                return nums[i];
+            }
         }
         return -1;
     }
