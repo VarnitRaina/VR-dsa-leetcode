@@ -16,7 +16,7 @@
 class Solution {
         int tiltSum=0;
     public int findTilt(TreeNode root) {
-        tiltSum(root);  
+        tiltSum(root);
         return tiltSum;
     }
     public int tiltSum(TreeNode root){
