@@ -22,7 +22,7 @@ class Solution {
     public void preOrder(TreeNode root,List<Integer> list){
         if(root==null)return;
         list.add(root.val);
-        if(root.left!=null)preOrder(root.left,list);
-        if(root.right!=null)preOrder(root.right,list);
+        preOrder(root.left,list);
+        preOrder(root.right,list);
     }
 }
