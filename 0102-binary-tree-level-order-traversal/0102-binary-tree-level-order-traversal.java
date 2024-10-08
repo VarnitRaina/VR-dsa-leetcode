@@ -18,7 +18,7 @@ class Solution {
         List<List<Integer>> result=new ArrayList<>();
         if(root==null)return result;
         Queue<TreeNode> q=new LinkedList<>();
-        q.offer(root);
+        q.add(root);
         while(!q.isEmpty()){
             int size=q.size();
             List<Integer> currLevel=new ArrayList<>();
