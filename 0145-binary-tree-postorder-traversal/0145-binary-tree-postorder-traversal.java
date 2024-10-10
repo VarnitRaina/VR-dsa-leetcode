@@ -25,7 +25,6 @@ class Solution {
             while(size-->0){
                 TreeNode curr=stack1.pop();
                 stack2.push(curr);
-                result.add(curr.val);
                 if(curr.left!=null){
                     stack1.push(curr.left);
                 }
@@ -34,7 +33,10 @@ class Solution {
                 }
             }
         }
-        Collections.reverse(result);
+        while(!stack2.isEmpty()){
+            TreeNode temp=stack2.pop();
+            result.add(temp.val);
+        }
         return result;
     }
 }
