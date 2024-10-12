@@ -15,22 +15,33 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-    List<List<Integer>> l1=new ArrayList<>();
-    zigzag(root,l1,0);
-    return l1;
-    }
-    public void zigzag(TreeNode root,List<List<Integer>> list1,int count){
-        if(root==null)return ;
-        if(list1.size()==count){
-            list1.add(new ArrayList<>());
+        List<List<Integer>> result=new ArrayList<>();
+        if(root==null)return result;
+        int count=1;
+        Stack<TreeNode> stack1=new Stack<>();
+        Stack<TreeNode> stack2=new Stack<>();
+        stack1.push(root);
+        while(!stack1.isEmpty() || !stack2.isEmpty()){
+            List<Integer> l1=new ArrayList<>();
+            if(count%2!=0){
+                while(!stack1.isEmpty()){
+                    TreeNode curr=stack1.pop();
+                    l1.add(curr.val);
+                    if(curr.left!=null)stack2.push(curr.left);
+                    if(curr.right!=null)stack2.push(curr.right);
+                }
+            }
+            else{
+                while(!stack2.isEmpty()){
+                    TreeNode curr=stack2.pop();
+                    l1.add(curr.val);
+                    if(curr.right!=null)stack1.push(curr.right);
+                    if(curr.left!=null)stack1.push(curr.left);
+                }
+            }
+            count++;
+            result.add(l1);
         }
-        if(count%2==0){
-            list1.get(count).add(root.val);
-        }
-        else{
-            list1.get(count).add(0,root.val);
-        }
-        zigzag(root.left,list1,count+1);
-        zigzag(root.right,list1,count+1);
+    return result;
     }
 }
