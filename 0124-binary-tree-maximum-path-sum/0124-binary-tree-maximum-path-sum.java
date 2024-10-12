@@ -21,9 +21,9 @@ class Solution {
     }
     public int maxSum(TreeNode root){
         if(root==null)return 0;
-        int lSum=Math.max(0,maxSum(root.left));
-        int rSum=Math.max(0,maxSum(root.right));
-        max=Math.max(max,lSum+rSum+root.val);
-        return root.val+Math.max(lSum,rSum);
+        int left=Math.max(0,maxSum(root.left));
+        int right=Math.max(0,maxSum(root.right));
+        max=Math.max(max,left+right+root.val);
+        return root.val+Math.max(left,right);
     }
 }
