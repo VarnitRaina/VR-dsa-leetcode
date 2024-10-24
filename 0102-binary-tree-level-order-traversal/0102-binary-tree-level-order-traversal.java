@@ -21,10 +21,10 @@ class Solution {
         q.add(root);
         while(!q.isEmpty()){
             int size=q.size();
-            List<Integer> list=new ArrayList<>();
+            List<Integer> l1=new ArrayList<>();
             while(size-->0){
                 TreeNode curr=q.poll();
-                list.add(curr.val);
+                l1.add(curr.val);
                 if(curr.left!=null){
                     q.add(curr.left);
                 }
@@ -32,7 +32,7 @@ class Solution {
                     q.add(curr.right);
                 }
             }
-            result.add(list);
+            result.add(l1);
         }
         return result;
     }
