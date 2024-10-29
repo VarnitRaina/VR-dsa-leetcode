@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0217-contains-duplicate) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0268-missing-number) |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0274-h-index) |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
@@ -465,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
