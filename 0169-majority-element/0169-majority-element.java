@@ -3,23 +3,18 @@ class Solution {
         int n=nums.length;
         int count=1;
         int a=nums[0];
-        for (int i=1;i<nums.length;i++){
-            if (nums[i]==a){
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]==a){
                 count++;
             }
-            else
-            {
+            else{
                 count--;
             }
-            if(count==0)
-            {
+            if(count==0){
                 a=nums[i];
-                count =1;
-
+                count=1;
             }
         }
         return a;
-        
-            
-        }
     }
+}
