@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0268-missing-number) |
