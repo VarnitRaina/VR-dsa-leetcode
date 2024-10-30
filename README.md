@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0198-house-robber) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
