@@ -30,6 +30,7 @@ class Solution {
                 if(curr.left!=null){
                     stack.push(curr.left);
                 }
+
             }
         }
         return result;
