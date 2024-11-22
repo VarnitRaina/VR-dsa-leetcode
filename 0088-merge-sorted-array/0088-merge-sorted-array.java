@@ -16,7 +16,7 @@ class Solution {
         while(j<n){
             l1.add(nums2[j++]);
         }
-        for(i=0;i<m+n;i++){
+        for(i=0;i<l1.size();i++){
             nums1[i]=l1.get(i);
         }
     }
