@@ -1,7 +1,7 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        ArrayList<Integer> l1=new ArrayList<>();
-        HashMap<Integer,Integer> map=new HashMap<>();
+        Map<Integer,Integer> map=new HashMap<>();
+        List<Integer> l1=new ArrayList<>();
         for(int num:nums1){
             map.put(num,map.getOrDefault(num,0)+1);
         }
