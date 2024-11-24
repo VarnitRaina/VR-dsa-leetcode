@@ -1,6 +1,6 @@
 class Solution {
     public String reverseVowels(String s) {
-        char [] word=s.toCharArray();
+        char[] word=s.toCharArray();
         int start=0;
         int end=word.length-1;
         String vowels="aeiouAEIOU";
