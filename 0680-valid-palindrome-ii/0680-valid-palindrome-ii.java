@@ -1,7 +1,6 @@
 class Solution {
     public boolean validPalindrome(String s) {
         int n=s.length();
-        if(n==0 || n==1 || n==2)return true;
         int start=0;
         int end=n-1;
         while(start<end){
