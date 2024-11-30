@@ -1,7 +1,7 @@
 class Solution {
-    public int[] shortestToChar(String s,char c){
+    public int[] shortestToChar(String s, char c) {
         int n=s.length();
-        int [] arr=new int[n];
+        int arr[]=new int[n];
         int index=Integer.MIN_VALUE/2;
         for(int i=0;i<n;i++){
             if(s.charAt(i)==c){
