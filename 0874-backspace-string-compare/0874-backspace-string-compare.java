@@ -4,6 +4,7 @@ class Solution {
     }
     public String buildString(String str){
         Stack<Character> stack=new Stack<>();
+        StringBuilder res=new StringBuilder();
         for(char ch:str.toCharArray()){
             if(ch=='#'){
                 if(!stack.isEmpty()){
@@ -14,10 +15,9 @@ class Solution {
                 stack.push(ch);
             }
         }
-        StringBuilder result=new StringBuilder();
         for(char ch:stack){
-            result.append(ch);
+            res.append(ch);
         }
-        return result.toString();
+        return res.toString();
     }
 }
