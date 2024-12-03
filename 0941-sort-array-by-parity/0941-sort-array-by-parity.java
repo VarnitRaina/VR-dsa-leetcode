@@ -6,12 +6,9 @@ class Solution {
         while(curr<n){
             if(nums[curr]%2==0){
                 swap(nums,prev,curr);
-                curr++;
                 prev++;
             }
-            else{
-                curr++;
-            }
+            curr++;
         }
         return nums;
     }
