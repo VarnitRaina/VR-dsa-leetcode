@@ -1,29 +1,28 @@
 class Solution {
     public boolean canMakeSubsequence(String str1, String str2) {
-        Map<Character, Character> cyclicMap = new HashMap<>();
-        cyclicMap.put('a', 'z');
-        for (char c = 'b'; c <= 'z'; c++) {
-            cyclicMap.put(c, (char) (c - 1));
+        Map<Character,Character> map=new HashMap<>();
+        map.put('a','z');
+        for(char c='b';c<='z';c++){
+            map.put(c,(char)(c-1));
         }
-
-        int ptr1 = str1.length() - 1;
-        int ptr2 = str2.length() - 1;
-
-        // Traverse the strings
-        while (ptr1 >= 0 && ptr2 >= 0) {
-            if (str1.charAt(ptr1) == str2.charAt(ptr2)) {
-                ptr1--;
-                ptr2--;
-            } else {
-                char correspondingValue = cyclicMap.get(str2.charAt(ptr2));
-                if (str1.charAt(ptr1) == correspondingValue) {
-                    ptr1--;
-                    ptr2--;
-                } else {
-                    ptr1--;
+        int p1=str1.length()-1;
+        int p2=str2.length()-1;
+        while(p1>=0 && p2>=0){
+            if(str1.charAt(p1)==str2.charAt(p2)){
+                p1--;
+                p2--;
+            }
+            else{
+                char val=map.get(str2.charAt(p2));
+                if(str1.charAt(p1)==val){
+                    p1--;
+                    p2--;
+                }
+                else{
+                    p1--;
                 }
             }
         }
-        return ptr2 < 0;
+        return p2<0;
     }
 }
