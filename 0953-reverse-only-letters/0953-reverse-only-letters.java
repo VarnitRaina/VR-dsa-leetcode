@@ -2,7 +2,7 @@ class Solution {
     public String reverseOnlyLetters(String s) {
         char[] ch=s.toCharArray();
         int start=0;
-        int end=s.length()-1;
+        int end=ch.length-1;
         while(start<end){
             while(start<end && !Character.isLetter(ch[start])){
                 start++;
