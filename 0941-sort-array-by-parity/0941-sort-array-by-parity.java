@@ -1,7 +1,6 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        int prev=0;
-        int curr=0;
+        int prev=0,curr=0;
         int n=nums.length;
         while(curr<n){
             if(nums[curr]%2==0){
@@ -12,9 +11,9 @@ class Solution {
         }
         return nums;
     }
-    public void swap(int arr[],int start,int end){
-        int temp=arr[start];
-        arr[start]=arr[end];
-        arr[end]=temp;
+    public void swap(int[] arr,int prev,int curr){
+        int temp=arr[prev];
+        arr[prev]=arr[curr];
+        arr[curr]=temp;
     }
 }
