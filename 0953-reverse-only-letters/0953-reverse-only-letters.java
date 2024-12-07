@@ -1,6 +1,6 @@
 class Solution {
     public String reverseOnlyLetters(String s) {
-        char[] ch=s.toCharArray();
+        char [] ch=s.toCharArray();
         int start=0;
         int end=ch.length-1;
         while(start<end){
