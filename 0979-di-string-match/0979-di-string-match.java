@@ -11,7 +11,7 @@ class Solution {
                 res[j]=d--;
             }
         }
-        res[s.length()]=i;
+        res[s.length()]=d;
         return res;
     }
 }
