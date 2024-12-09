@@ -24,9 +24,6 @@ class Solution {
             }
             j++;
         }
-        if(i<n && j>=m){
-            return false;
-        }
-        return true;
+        return i==n && j==m;
     }
 }
