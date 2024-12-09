@@ -1,9 +1,17 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        for(int i=0;i<nums.length;i++){
-            nums[i]=(int)Math.pow(nums[i],2);
+        int[] res=new int[nums.length];
+        int l=0;
+        int r=nums.length-1;
+        for(int i=nums.length-1;i>=0;i--){
+            if(Math.pow(nums[l],2)>=Math.pow(nums[r],2)){
+                res[i]=(int)Math.pow(nums[l++],2);
+            }
+            else{
+                res[i]=(int)Math.pow(nums[r--],2);
+            }
+
         }
-        Arrays.sort(nums);
-        return nums;
+        return res;
     }
 }
