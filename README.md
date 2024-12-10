@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1293-three-consecutive-odds) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -476,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -499,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
