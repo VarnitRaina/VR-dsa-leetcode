@@ -3,18 +3,12 @@ class Solution {
         int count=0;
         int start=0;
         int end=s.length()-1;
-        while(start<end){
-            if(isPalindrome(s,start,end)){
-                count=1;
-                break;
-            }
-            else{
-                count=2;
-                break;
-            }
-            
+        if(isPalindrome(s,start,end)){
+            return 1;
         }
-        return count;
+        else{
+            return 2;
+        }
     }
     public boolean isPalindrome(String s,int start,int end){
         while(start<end){
