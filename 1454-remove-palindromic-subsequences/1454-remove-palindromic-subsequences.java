@@ -1,6 +1,5 @@
 class Solution {
     public int removePalindromeSub(String s) {
-        int count=0;
         int start=0;
         int end=s.length()-1;
         if(isPalindrome(s,start,end)){
