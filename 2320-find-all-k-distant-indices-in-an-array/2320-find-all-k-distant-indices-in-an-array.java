@@ -4,7 +4,7 @@ class Solution {
         int n=nums.length;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(Math.abs(i-j)<=k && nums[j]==key){
+                if(nums[j]==key && Math.abs(i-j)<=k){
                     l1.add(i);
                     break;
                 }
