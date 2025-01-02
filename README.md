@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Math
 |  |
 | ------- |
