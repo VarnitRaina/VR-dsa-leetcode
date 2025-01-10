@@ -7,7 +7,7 @@ class Solution {
                 ans+=Math.min(curr,prev);
                 prev=curr;
                 curr=1;
-            }
+            }   
             else{
                 curr++;
             }
