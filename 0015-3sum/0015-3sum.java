@@ -4,20 +4,19 @@ class Solution {
         int n=nums.length;
         Arrays.sort(nums);
         for(int i=0;i<n-2;i++){
-            int start=i+1;
-            int end=n-1;
-            while(start<end){
-                int sum=nums[i]+nums[start]+nums[end];
+            int l=i+1,r=n-1;
+            while(l<r){
+                int sum=nums[i]+nums[l]+nums[r];
                 if(sum==0){
-                    set.add(Arrays.asList(nums[i],nums[start],nums[end]));
-                    start++;
-                    end--;
+                    set.add(Arrays.asList(nums[i],nums[l],nums[r]));
+                    l++;
+                    r--;
                 }
                 else if(sum<0){
-                    start++;
+                    l++;
                 }
                 else{
-                    end--;
+                    r--;
                 }
             }
         }
