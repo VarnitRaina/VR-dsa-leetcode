@@ -15,8 +15,11 @@ class Solution {
                 if(sum<target){
                     l++;
                 }
-                else{
+                else if(sum>target){
                     r--;
+                }
+                else{
+                    return sum;
                 }
 
             }
