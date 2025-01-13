@@ -1,8 +1,8 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         int n=nums.length;
-        Arrays.sort(nums);
         Set<List<Integer>> set=new HashSet<>();
+        Arrays.sort(nums);
         for(int i=0;i<n-3;i++){
             for(int j=i+1;j<n-2;j++){
                 int l=j+1,r=n-1;
