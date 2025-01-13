@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0055-jump-game) |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
