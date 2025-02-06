@@ -6,10 +6,10 @@ class Solution {
             int l=i+1,r=n-1;
             while(l<r){
                 int sum=nums[i]+nums[l]+nums[r];
-                int diff=Math.abs(target-sum);
+                int diff=Math.abs(sum-target);
                 if(diff<min){
-                    csum=sum;
                     min=diff;
+                    csum=sum;
                 }
                 if(sum<target){
                     l++;
