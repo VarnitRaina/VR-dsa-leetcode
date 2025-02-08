@@ -5,7 +5,7 @@ class Solution {
         String res=String.join(" ",words);
         return res;
     }
-    public void reverse(String[] arr,int start,int end){
+    public static void reverse(String[] arr,int start,int end){
         while(start<end){
             String temp=arr[start];
             arr[start++]=arr[end];
