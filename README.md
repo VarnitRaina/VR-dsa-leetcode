@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2448-count-number-of-bad-pairs](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -635,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1127-last-stone-weight) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
