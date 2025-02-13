@@ -37,6 +37,6 @@ class Solution {
         if(temp==null){
             prev.next=l2;
         }
-    return l1;
+        return l1;
     }
 }
