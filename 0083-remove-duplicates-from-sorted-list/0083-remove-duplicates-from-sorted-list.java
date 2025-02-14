@@ -15,8 +15,9 @@ class Solution {
             if(temp.val==temp.next.val){
                 temp.next=temp.next.next;
             }
-            else    
+            else{
                 temp=temp.next;
+            }
         }
         return head;
     }
