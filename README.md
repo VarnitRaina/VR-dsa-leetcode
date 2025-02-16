@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -554,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
