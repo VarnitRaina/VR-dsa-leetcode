@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -615,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0409-longest-palindrome) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0680-valid-palindrome-ii) |
