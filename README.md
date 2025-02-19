@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0979-di-string-match) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -457,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -568,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0941-sort-array-by-parity](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1019-squares-of-a-sorted-array) |
