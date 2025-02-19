@@ -4,7 +4,9 @@ class Solution {
             if(a.length()!=b.length()){
                 return b.length()-a.length();
             }
-            return a.compareTo(b);
+            else{
+                return a.compareTo(b);
+            }
         });
         for(String word:dictionary){
             if(isSubsequence(word,s)){
@@ -22,6 +24,6 @@ class Solution {
             }
             j++;
         }
-        return i==s1.length();
+        return i==n;
     }
 }
