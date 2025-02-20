@@ -8,9 +8,9 @@ class Solution {
         }
         return count;
     }
-    public int binary(int i,int []arr){
+    public int binary(int i,int arr[]){
         int n=arr.length;
-        int s=0,e=i-1,ans=0;
+        int ans=0,s=0,e=i-1;
         while(s<e){
             if(arr[s]+arr[e]>arr[i]){
                 ans+=e-s;
