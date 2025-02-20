@@ -8,7 +8,7 @@ class Solution {
             }
         }
         for(int i=n-1;i>0;i--){
-            if(nums[i]<nums[i-1]){
+            if(nums[i-1]>nums[i]){
                 max=Math.max(max,nums[i-1]);
             }
         }
@@ -18,11 +18,11 @@ class Solution {
                 break;
             }
         }
-        for(r=n-1;r>=0;r--){
+        for(r=n-1;r>0;r--){
             if(nums[r]<max){
                 break;
             }
         }
-        return r-l>0?r-l+1:0;
+        return (r-l>0?r-l+1:0);
     }
 }
