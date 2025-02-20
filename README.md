@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2107-find-unique-binary-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2107-find-unique-binary-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2107-find-unique-binary-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -879,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0113-path-sum-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0257-binary-tree-paths) |
+| [2107-find-unique-binary-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2107-find-unique-binary-string) |
 ## Union Find
 |  |
 | ------- |
