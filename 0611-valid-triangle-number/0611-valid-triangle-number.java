@@ -8,6 +8,7 @@ class Solution {
         }
         return count;
     }
+    
     public int binary(int i,int arr[]){
         int n=arr.length;
         int ans=0,s=0,e=i-1;
