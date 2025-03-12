@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
