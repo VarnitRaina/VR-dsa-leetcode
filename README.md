@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
@@ -932,4 +935,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
