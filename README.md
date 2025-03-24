@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0147-insertion-sort-list) |
