@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3430-count-days-without-meetings](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3639-zero-array-transformation-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Dynamic Programming
@@ -621,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sliding Window
 |  |
