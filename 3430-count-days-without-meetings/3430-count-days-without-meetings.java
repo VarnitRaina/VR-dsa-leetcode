@@ -1,9 +1,9 @@
 class Solution {
     public int countDays(int days, int[][] meetings) {
-        int n=meetings.length,ans=0;
-        List<int[]> list=new ArrayList<>();
+        int n=meetings.length;
         Arrays.sort(meetings,(a,b)->Integer.compare(a[0],b[0]));
-        int[] currentMeeting=meetings[0];
+        List<int[]> list=new ArrayList<>();
+        int currentMeeting[]=meetings[0];
         list.add(currentMeeting);
         for(int i=1;i<n;i++){
             int currentEnd=currentMeeting[1];
@@ -17,8 +17,8 @@ class Solution {
                 list.add(currentMeeting);
             }
         }
-        int lastEnd=0;
-        for(int [] meeting:list){
+        int lastEnd=0,ans=0;
+        for(int[] meeting:list){
             int start=meeting[0];
             int end=meeting[1];
             ans+=start-lastEnd-1;
