@@ -1,9 +1,9 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> ans=new ArrayList<>();
+        if(s.length()<p.length())return ans;
         Map<Character,Integer> map1=new HashMap<>();
         Map<Character,Integer> map2=new HashMap<>();
-        List<Integer> ans=new ArrayList<>();
-        if (s.length() < p.length()) return ans;
         for(char c:p.toCharArray()){
             map1.put(c,map1.getOrDefault(c,0)+1);
         }
@@ -14,7 +14,7 @@ class Solution {
         while(r<n){
             if(map1.equals(map2)){
                 ans.add(l);
-            }  
+            }
             char leftChar=s.charAt(l);
             map2.put(leftChar,map2.get(leftChar)-1);
             if(map2.get(leftChar)==0){
