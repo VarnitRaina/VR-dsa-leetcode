@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [0841-shortest-distance-to-a-character](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0861-flipping-an-image) |
+| [0907-koko-eating-bananas](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
