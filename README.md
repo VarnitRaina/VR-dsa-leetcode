@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -946,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
