@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
 | [0841-shortest-distance-to-a-character](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0941-sort-array-by-parity) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0979-di-string-match) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
