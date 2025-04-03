@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0066-plus-one) |
@@ -566,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -946,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0921-spiral-matrix-iii) |
