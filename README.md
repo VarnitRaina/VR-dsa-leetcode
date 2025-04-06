@@ -706,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0953-reverse-only-letters) |
@@ -973,6 +974,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Trie
 |  |
