@@ -1,11 +1,11 @@
 class Solution {
     public int mySqrt(int x) {
         if(x==0 || x==1)return x;
-        int low=1,high=x;
-        int ans=0;
+        long low=1,high=x;
+        long ans=0;
         while(low<=high){
-            int mid=low+(high-low)/2;
-            if((long)mid*mid<=x){
+            long mid=low+(high-low)/2;
+            if(mid*mid<=x){
                 ans=mid;
                 low=mid+1;
             }
@@ -13,6 +13,6 @@ class Solution {
                 high=mid-1;
             }
         }
-        return ans;
+        return (int)ans;
     }
 }
