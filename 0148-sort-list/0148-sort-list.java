@@ -10,39 +10,44 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head==null || head.next==null) return head;
-        ListNode mid=getMiddle(head);
-        ListNode left=sortList(head);
-        ListNode right=sortList(mid);
-        return merge(left,right);
-        
-    }
-    private ListNode merge(ListNode l1,ListNode l2){
-        ListNode dummy=new ListNode(0);
-        ListNode temp=dummy;
-        while(l1!=null && l2!=null){
-            if(l1.val<=l2.val){
-                temp.next=l1;
-                l1=l1.next;
-            }
-            else{
-                temp.next=l2;
-                l2=l2.next;
-            }
-            temp=temp.next;
+        if(head==null || head.next==null){
+            return head;
         }
-        temp.next=l1 != null?l1:l2;
-        return dummy.next;
+        ListNode mid=mid(head);
+        ListNode midNext=mid.next;
+        mid.next=null;
+        ListNode left=sortList(head);
+        ListNode right=sortList(midNext);
+        return merge(left,right);
     }
-    private ListNode getMiddle(ListNode head){
-        ListNode slow=head;
-        ListNode fast=head.next;
-        while(fast!=null && fast.next!=null){
+    public ListNode mid(ListNode head){
+        ListNode slow=head,fast=head;
+        while(fast.next!=null && fast.next.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode mid=slow.next;
-        slow.next=null;
-        return mid;
+        return slow;
+    }
+    public ListNode merge(ListNode left,ListNode right){
+        ListNode dummy=new ListNode(0);
+        ListNode temp=dummy;
+        while(left!=null && right!=null){
+            if(left.val<=right.val){
+                temp.next=left;
+                left=left.next;
+            }
+            else{
+                temp.next=right;
+                right=right.next;
+            }
+            temp=temp.next;
+        }
+        if(left!=null){
+            temp.next=left;
+        }
+        if(right!=null){
+            temp.next=right;
+        }
+        return dummy.next;
     }
 }
