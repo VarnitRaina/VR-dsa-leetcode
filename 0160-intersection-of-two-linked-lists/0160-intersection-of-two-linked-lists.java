@@ -32,8 +32,8 @@ public class Solution {
         ListNode temp=head;
         int size=0;
         while(temp!=null){
-            size++;
             temp=temp.next;
+            size++;
         }
         return size;
     }
