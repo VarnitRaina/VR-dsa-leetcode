@@ -21,11 +21,11 @@ class Solution {
     }
     public int size(ListNode head){
         ListNode temp=head;
-        int size=0;
+        int count=0;
         while(temp!=null){
-            size++;
             temp=temp.next;
+            count++;
         }
-        return size;
+        return count;
     }
 }
