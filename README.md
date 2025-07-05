@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0206-reverse-linked-list) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0242-valid-anagram) |
@@ -768,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -1023,4 +1027,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1656-count-good-triplets) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
