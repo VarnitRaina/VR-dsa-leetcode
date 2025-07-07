@@ -24,11 +24,13 @@ class Solution {
                 l2=l2.next;
             }
             carry=sum/10;
-            sum=sum%10;
+            sum%=10;
             temp.next=new ListNode(sum);
             temp=temp.next;
         }
-        if(carry==1)temp.next=new ListNode(1);
+        if(carry>0){
+            temp.next=new ListNode(carry);
+        }
         return result.next;
     }
 }
