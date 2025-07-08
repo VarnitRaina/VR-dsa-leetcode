@@ -10,34 +10,46 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head==null || k==1)return head;
         ListNode dummy=new ListNode(0);
         dummy.next=head;
-        ListNode prevGrouptail=dummy;
-        ListNode curr=head;
-        while(hasKnodes(curr,k)){
-            ListNode groupHead=curr;
-            ListNode prev=null;
-            int count=0;
-            while(count<k && curr!=null){
-                ListNode next=curr.next;
-                curr.next=prev;
-                prev=curr;
-                curr=next;
-                count++;
+        ListNode temp=head;
+        ListNode nextNode=null,prevTail=null;
+        while(temp!=null){
+            ListNode kNode=kNode(temp,k);
+            if(kNode==null){
+                if(prevTail!=null){
+                    prevTail.next=temp;
+                }
+                break;
             }
-            prevGrouptail.next=prev;
-            groupHead.next=curr;
-            prevGrouptail=groupHead;
+            nextNode=kNode.next;
+            kNode.next=null;
+            reverse(temp);
+            if(temp==head){
+                head=kNode;
+            }
+            else{
+                prevTail.next=kNode;
+            }
+            prevTail=temp;
+            temp=nextNode;
         }
-        return dummy.next;
+        return head;
     }
-    public boolean hasKnodes(ListNode head,int k){
-        int count=0;
-        while(head!=null && count<k){
-            head=head.next;
-            count++;
+    public void reverse(ListNode head){
+        ListNode temp=head,prev=null;
+        while(temp!=null){
+            ListNode next=temp.next;
+            temp.next=prev;
+            prev=temp;
+            temp=next;
         }
-        return count==k;
+    }
+    public ListNode kNode(ListNode head,int k){
+        while(head!=null && k>1){
+            head=head.next;
+            k--;
+        }
+        return head;
     }
 }
