@@ -12,7 +12,7 @@ class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result=new ListNode(0);
         ListNode temp=result;
-        int sum=0,carry=0;
+        int carry=0,sum=0;
         while(l1!=null || l2!=null){
             sum=carry;
             if(l1!=null){
