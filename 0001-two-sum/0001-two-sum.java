@@ -3,12 +3,12 @@ class Solution {
         Map<Integer,Integer> map=new HashMap<>();
         int n=nums.length;
         for(int i=0;i<n;i++){
-            int com=target-nums[i];
-            if(map.containsKey(com)){
-                return new int[]{map.get(com),i};
+            int diff=target-nums[i];
+            if(map.containsKey(diff)){
+                return new int[]{map.get(diff),i};
             }
             map.put(nums[i],i);
-        }
+        }        
         return null;
     }
 }
