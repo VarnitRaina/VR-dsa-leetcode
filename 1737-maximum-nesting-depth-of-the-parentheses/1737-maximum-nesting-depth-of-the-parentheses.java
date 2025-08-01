@@ -1,6 +1,6 @@
 class Solution {
     public int maxDepth(String s) {
-        int count=0,max=Integer.MIN_VALUE;
+        int count=0,max=0;
         for(char c:s.toCharArray()){
             if(c=='(')count++;
             else if(c==')')count--;
