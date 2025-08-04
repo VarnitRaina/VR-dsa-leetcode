@@ -1,8 +1,9 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        for(int i=0;i<=haystack.length()-needle.length();i++){
+        int n=haystack.length(),m=needle.length();
+        for(int i=0;i<=n-m;i++){
             if(haystack.charAt(i)==needle.charAt(0)){
-                if(haystack.substring(i,needle.length()+i).equals(needle)){
+                if(haystack.substring(i,i+m).equals(needle)){
                     return i;
                 }
             }
