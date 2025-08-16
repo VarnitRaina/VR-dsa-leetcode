@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0817-design-hashmap](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0835-linked-list-components) |
+| [0966-binary-subarrays-with-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -704,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0658-find-k-closest-elements) |
+| [0966-binary-subarrays-with-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -833,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3639-zero-array-transformation-i](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/3639-zero-array-transformation-i) |
