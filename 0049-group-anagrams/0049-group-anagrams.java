@@ -4,11 +4,11 @@ class Solution {
         for(String str:strs){
             char[] charArray=str.toCharArray();
             Arrays.sort(charArray);
-            String sortedstr=new String(charArray);
-            if(!map.containsKey(sortedstr)){
-                map.put(sortedstr,new ArrayList<String>());
+            String sortedStr=new String(charArray);
+            if(!map.containsKey(sortedStr)){
+                map.put(sortedStr,new ArrayList<String>());
             }
-            map.get(sortedstr).add(str);
+            map.get(sortedStr).add(str);
         }
         List<List<String>> l1=new ArrayList<>();
         l1.addAll(map.values());
