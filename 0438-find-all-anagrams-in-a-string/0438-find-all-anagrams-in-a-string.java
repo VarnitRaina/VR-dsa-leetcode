@@ -1,32 +1,22 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> ans=new ArrayList<>();
-        if(s.length()<p.length())return ans;
-        Map<Character,Integer> map1=new HashMap<>();
-        Map<Character,Integer> map2=new HashMap<>();
+        List<Integer> res=new ArrayList<>();
+        int[] pcount=new int[26];
+        int[] scount=new int[26];
         for(char c:p.toCharArray()){
-            map1.put(c,map1.getOrDefault(c,0)+1);
+            pcount[c-'a']++;
         }
-        for(int i=0;i<p.length();i++){
-            map2.put(s.charAt(i),map2.getOrDefault(s.charAt(i),0)+1);
+        int l=0;
+        for(int r=0;r<s.length();r++){
+            scount[s.charAt(r)-'a']++;
+            if(r>=p.length()){
+                scount[s.charAt(r-p.length())-'a']--;
+            }
+            if(Arrays.equals(pcount,scount)){
+                res.add(r-p.length()+1);
+            }
+            
         }
-        int l=0,r=p.length()-1,n=s.length();
-        while(r<n){
-            if(map1.equals(map2)){
-                ans.add(l);
-            }
-            char leftChar=s.charAt(l);
-            map2.put(leftChar,map2.get(leftChar)-1);
-            if(map2.get(leftChar)==0){
-                map2.remove(leftChar);
-            }
-            l++;
-            r++;
-            if(r<n){
-                char rightChar=s.charAt(r);
-                map2.put(rightChar,map2.getOrDefault(rightChar,0)+1);
-            }
-        }
-        return ans;
+        return res;
     }
 }
