@@ -1,7 +1,7 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
         List<int[]> list=new ArrayList<>();
-        Arrays.sort(intervals,(a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
         int n=intervals.length;
         int currentInterval[]=intervals[0];
         list.add(currentInterval);
