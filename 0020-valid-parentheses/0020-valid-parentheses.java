@@ -1,21 +1,21 @@
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack=new Stack<>();
-        int n=s.length();
-        for(int i=0;i<n;i++){
+        for(char c:s.toCharArray()){
             if(!stack.isEmpty()){
-                char curr=s.charAt(i);
-                char last=stack.peek();
-                if(isPair(last,curr)){
+                if(isPair(stack.peek(),c)){
                     stack.pop();
                     continue;
                 }
             }
-            stack.push(s.charAt(i));
+            stack.push(c);
         }
         return stack.isEmpty();
     }
-    public boolean isPair(char last,char curr){
-        return ((last=='(' && curr==')')||(last=='{' && curr=='}') || (last=='[' && curr==']'));
+    public boolean isPair(char c1,char c2){
+        if((c1=='(' && c2==')') || (c1=='{' && c2=='}') || (c1=='[' && c2==']')){
+            return true;
+        }
+        return false;
     }
 }
