@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0141-linked-list-cycle) |
@@ -708,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -752,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VarnitRaina/VR-dsa-leetcode/tree/master/0205-isomorphic-strings) |
